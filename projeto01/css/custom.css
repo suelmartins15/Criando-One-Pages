@@ -1,0 +1,10 @@
+ul li a {
+    color: steelblue;
+}
+ul li a:hover {
+    color: white;
+    background-color: steelblue;
+}
+nav{
+    box-shadow: none;
+}
