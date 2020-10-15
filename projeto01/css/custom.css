@@ -8,3 +8,7 @@ ul li a:hover {
 nav{
     box-shadow: none;
 }
+blockquote {
+    border-left: 5px solid lightblue;
+
+}
