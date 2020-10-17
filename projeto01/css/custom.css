@@ -12,3 +12,9 @@ blockquote {
     border-left: 5px solid lightblue;
 
 }
+
+fieldset{
+    border: 1px solid lightgreen;
+    border-radius: 3px;
+    padding: 10px;
+}
