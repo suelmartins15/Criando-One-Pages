@@ -5,5 +5,7 @@ $(document).ready(function(){
     //parallax
     $('.parallax').parallax();
 
+    //materialboxed
+    $('.materialboxed').materialbox();
 
 });
