@@ -6,3 +6,8 @@
     transform: scale(1.2);
     transition: 0.5s;
 }
+fieldset{
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    padding: 10px;
+}
